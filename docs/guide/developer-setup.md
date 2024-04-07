@@ -39,3 +39,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ## Docker
 [Docker](https://docs.docker.com/desktop/install/linux-install/)
+
+## Podman
+```bash
+sudo apt-get -y install podman
+```
