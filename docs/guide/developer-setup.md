@@ -12,6 +12,11 @@ Recommended extensions: Rust Analyzer, crates, webassembly, docker, dev containe
 sudo apt-get install git
 ```
 
+## Homebrew
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ## Javascript
 Install [Node.js](https://nodejs.org/en/download)
 
