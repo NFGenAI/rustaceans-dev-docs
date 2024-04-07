@@ -3,9 +3,9 @@ NFGenAI Generative AI NFTs Studio for Collectors and Creators.
 
 ## Collectors
 As a collector you'll find on NFGenAI: Interactive NFTs collections, community of like minded builders.
-### Collections:
+### Collections
 Solana x Fighter Beasts.
-Near x Dragon Genesis.
+Near x Dragons Genesis.
 Sui x Pixel Babes.
 
 ## Creators
