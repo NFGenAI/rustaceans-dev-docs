@@ -7,7 +7,7 @@ hero:
   tagline: Swimming
   actions:
     - theme: brand
-      text: Quick Start
+      text: Dev Guides
       link: /guide/
     - theme: alt
       text: Github
